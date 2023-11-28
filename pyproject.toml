@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "collection-viewer"
+version = "0.1.0"
+description = ""
+authors = ["_MircoWave_ <clarknick1990@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+nicegui = "^1.4.3"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
