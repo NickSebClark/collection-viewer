@@ -1,0 +1,152 @@
+[
+    {
+        "id": 1,
+        "name": "Alice",
+        "age": 25,
+        "address": {
+            "street": "123 Main St",
+            "city": "Wonderland",
+            "postal_code": "45678"
+        },
+        "interests": [
+            "reading",
+            "painting",
+            "hiking"
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Bob",
+        "age": 30,
+        "address": {
+            "street": "456 Elm Ave",
+            "city": "Metropolis",
+            "postal_code": "98765"
+        },
+        "interests": [
+            "coding",
+            "gaming",
+            "cooking"
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Charlie",
+        "age": 22,
+        "address": {
+            "street": "789 Oak Rd",
+            "city": "Sunnyville",
+            "postal_code": "54321"
+        },
+        "interests": [
+            "music",
+            "photography",
+            "travel"
+        ]
+    },
+    {
+        "id": 4,
+        "name": "David",
+        "age": 28,
+        "address": {
+            "street": "101 Pine Ln",
+            "city": "Harbor Town",
+            "postal_code": "13579"
+        },
+        "interests": [
+            "sports",
+            "gardening",
+            "movies"
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Eva",
+        "age": 24,
+        "address": {
+            "street": "222 Willow Dr",
+            "city": "Riverside",
+            "postal_code": "24680"
+        },
+        "interests": [
+            "yoga",
+            "meditation",
+            "volunteering"
+        ]
+    },
+    {
+        "id": 6,
+        "name": "Frank",
+        "age": 35,
+        "address": {
+            "street": "333 Cedar Ave",
+            "city": "Mountain View",
+            "postal_code": "98712"
+        },
+        "interests": [
+            "cycling",
+            "astronomy",
+            "writing"
+        ]
+    },
+    {
+        "id": 7,
+        "name": "Grace",
+        "age": 29,
+        "address": {
+            "street": "444 Maple Ct",
+            "city": "Harmony",
+            "postal_code": "56789"
+        },
+        "interests": [
+            "dancing",
+            "coffeetasting",
+            "gardening"
+        ]
+    },
+    {
+        "id": 8,
+        "name": "Hannah",
+        "age": 27,
+        "address": {
+            "street": "555 Birch Rd",
+            "city": "Serene City",
+            "postal_code": "32109"
+        },
+        "interests": [
+            "reading",
+            "birdwatching",
+            "painting"
+        ]
+    },
+    {
+        "id": 9,
+        "name": "Isaac",
+        "age": 31,
+        "address": {
+            "street": "666 Oakwood Ave",
+            "city": "Mystic Falls",
+            "postal_code": "76543"
+        },
+        "interests": [
+            "gaming",
+            "hiking",
+            "music"
+        ]
+    },
+    {
+        "id": 10,
+        "name": "Julia",
+        "age": 26,
+        "address": {
+            "street": "777 Elmwood Dr",
+            "city": "Dreamland",
+            "postal_code": "11223"
+        },
+        "interests": [
+            "cooking",
+            "travel",
+            "photography"
+        ]
+    }
+]
